@@ -1,11 +1,25 @@
-# Scrollable 3D Animation with Three.js
 
-- Watch the [full tutorial](https://youtu.be/Q7AOvWpIVHU) on YouTube
-- [Scrollable Three.js Animation](https://fireship.io/snippets/threejs-scrollbar-animation) Snippet
+In order to host this on your computer and view it on your browser, You need to install node js first.
+Than install git bash .
+Also Intstall a terminal from microsoft store, in case of windows.
+On that, Open git bash terminal.
 
-## Usage
+check if node installed :
+type:
+node --version
+npm --version
 
-```
+Above should return lates versions of node and npm.
+
+Steps in brief
+...
+Install Node.Js
+open terminal 
+go to desktop   --- cd ~ 
+                --- cd desktop
+                
+...
+
 git clone <this-repo>
 npm install
 npm run dev
