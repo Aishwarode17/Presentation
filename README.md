@@ -12,14 +12,13 @@ npm --version
 Above should return lates versions of node and npm.
 
 Steps in brief
-...
+
 Install Node.Js
 open terminal 
 go to desktop   --- cd ~ 
                 --- cd desktop
                 
 ...
-
 git clone <this-repo>
 npm install
 npm run dev
