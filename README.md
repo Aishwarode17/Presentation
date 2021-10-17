@@ -21,6 +21,8 @@ go to desktop   --- cd ~
                 
 Now run following commands on desktop folder inside the git bash terminal.
 
+...
 git clone <this-repo>
 npm install
 npm run dev
+...
